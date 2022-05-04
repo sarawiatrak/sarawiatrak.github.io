@@ -1,0 +1,19 @@
+.chart {
+    margin: auto;
+    width:800px;
+}
+
+img {
+    width: 800px;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #795644;
+}
